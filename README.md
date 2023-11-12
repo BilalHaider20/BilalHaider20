@@ -1,7 +1,8 @@
-![Header](./[github-header-image.png])
+![Profile Banner](https://github.com/BilalHaider20/Profile-Banner/blob/main/github-header-image.png?raw=true)
 <h1 align="center">Hi 👋, I'm Bilal Haider</h1>
 <h3 align="center">A passionate frontend developer and programmer from Pakistan</h3>
-<img align="right" alt="Coding" width="400" src="(img align="right" alt="Coding" width="400" src="https://images.app.goo.gl/R9Gm8eMzasn8qM277"></img>
+<img align="right" alt="Coding" width="400" src="https://github.com/BilalHaider20/Profile-Banner/blob/main/Animated%20coding.gif?raw=true">
+
 
 
 - 🌱 I’m currently learning **Reactjs, Nodejs, MERN Stack**
