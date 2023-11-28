@@ -1,5 +1,7 @@
 ![Profile Banner](https://github.com/BilalHaider20/Profile-Banner/blob/main/github-header-image.png?raw=true)
 
+![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white
+
 <h3 align="center">A passionate  developer and programmer from Pakistan</h3>
 <img align="right" alt="Coding" width="400" src="https://github.com/BilalHaider20/Profile-Banner/blob/main/Animated%20coding.gif?raw=true">
 
