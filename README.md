@@ -1,5 +1,5 @@
 
-![Profile Banner](https://github.com/BilalHaider20/Profile-Banner/blob/main/github-header-image.png?raw=true)
+![Profile Banner](src="https://github.com/BilalHaider20/Profile-Banner/blob/main/github-header-image.png?raw=true")
 
   ## Hi there, I'm Bilal Haider 👋
 A passionate developer and programmer from Pakistan.
