@@ -1,16 +1,21 @@
 
 ![Profile Banner](https://github.com/BilalHaider20/Profile-Banner/blob/main/github-header-image.png?raw=true)
 
-## Hi there, I'm Bilal Haider 👋
+  ## Hi there, I'm Bilal Haider 👋
 A passionate developer and programmer from Pakistan.
 
+  <img align="center" alt="imageOfCoding" width="500" src="https://th.bing.com/th/id/R.c0d1b11e54c2b07f7353dd160e8ba80d?rik=BH2sjO5Vy1%2fC%2fg&pid=ImgRaw&r=0">
+
 - 🌱 Currently learning Reactjs, Nodejs, MERN Stack
-- 💬 Ask me about React
-- 📫 Reach me at haiderbilal306@gmail.com
+
+- 📫 <a href="haiderbilal306@gmail.com">Send an email</a>
 
 ### Connect with me:
-[LinkedIn](https://www.linkedin.com/in/thebilalhaider)
 
+<a 
+  href="(https://www.linkedin.com/in/thebilalhaider">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="" /> 
+</a>
 ### Languages and Tools:
 - HTML, CSS, JavaScript
 - React, Node.js, Express
