@@ -9,11 +9,15 @@ A passionate developer and programmer from Pakistan.
 
 - 📫 <a href="haiderbilal306@gmail.com">Send an email</a>
 
+
 ### Connect with me:
 
-<a 
-  href="(https://www.linkedin.com/in/thebilalhaider">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="" /> 
+<a href="mailto:haiderbilal306@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Send an email" /> 
+</a>
+
+<a href="https://www.linkedin.com/in/thebilalhaider" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" /> 
 </a>
 ### Languages and Tools:
 - HTML, CSS, JavaScript
