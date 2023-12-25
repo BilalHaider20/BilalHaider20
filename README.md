@@ -7,9 +7,6 @@ A passionate developer and programmer from Pakistan.
 
 - 🌱 Currently learning Reactjs, Nodejs, MERN Stack
 
-- 📫 <a href="haiderbilal306@gmail.com">Send an email</a>
-
-
 ### Connect with me:
 
 <a href="mailto:haiderbilal306@gmail.com">
@@ -19,6 +16,7 @@ A passionate developer and programmer from Pakistan.
 <a href="https://www.linkedin.com/in/thebilalhaider" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" /> 
 </a>
+
 ### Languages and Tools:
 - HTML, CSS, JavaScript
 - React, Node.js, Express
