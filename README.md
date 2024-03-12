@@ -3,7 +3,7 @@
   ## Hi there, I'm Bilal Haider 👋
 A passionate developer and programmer from Pakistan.
 
-  <img align="right" alt="imageOfCoding" width="500" src="https://th.bing.com/th/id/R.c0d1b11e54c2b07f7353dd160e8ba80d?rik=BH2sjO5Vy1%2fC%2fg&pid=ImgRaw&r=0">
+  <img align="right" alt="imageOfCoding" width="400" height="400"  src="https://th.bing.com/th/id/R.c0d1b11e54c2b07f7353dd160e8ba80d?rik=BH2sjO5Vy1%2fC%2fg&pid=ImgRaw&r=0">
 
 - 🌱 Currently learning Reactjs, Nodejs, MERN Stack
 
