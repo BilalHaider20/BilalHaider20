@@ -9,7 +9,7 @@
 <ul>
 <li>🌱 Currently learning Reactjs, Nodejs, MERN Stack</li> 
 <li>👨‍💻 All of my projects are available at <a href="https://bilalhaider.netlify.app">[Projects]</li>
-<li>💬 Ask me about **HTML, CSS, and JS**</li>
+<li>💬 Ask me about <strong>Web and Android App Development</strong></li>
 <li>📫 How to reach me: <a href="mailto:haiderbilal306@gmail.com">[haiderbilal306@gmail.com]</a></li>
 <li>📄 Know about my experiences on <a href="https://bilalhaider.netlify.app">[Portfolio]</li>
 </ul>
