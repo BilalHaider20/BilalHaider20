@@ -1,7 +1,7 @@
 
 
  <h1 align="center"> Hi there, I'm Bilal Haider 👋</h1>
-<h3 align="center">Passionate Website Developer from Lahore, Pakistan</h3>.
+<h3 align="center">Passionate Full Stack Developer from Lahore, Pakistan</h3>.
   <img align="right" alt="imageOfCoding" width="400" src="https://th.bing.com/th/id/R.c0d1b11e54c2b07f7353dd160e8ba80d?rik=BH2sjO5Vy1%2fC%2fg&pid=ImgRaw&r=0">
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=BilalHaider20&label=Profile%20views&color=0e75b6&style=flat" alt="bilalhaider" />
