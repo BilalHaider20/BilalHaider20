@@ -11,7 +11,7 @@
 <li>👨‍💻 All of my projects are available at <a href="https://bilalhaider.netlify.app">[Projects]</li>
 <li>💬 Ask me about <strong>Web and Android App Development</strong></li>
 <li>📫 How to reach me: <a href="mailto:haiderbilal306@gmail.com">[haiderbilal306@gmail.com]</a></li>
-<li>📄 Know about my experiences on <a href="https://bilalhaider.netlify.app">[Portfolio]</li>
+<li>📄 Know about my experiences on <a href="http://bilalhaider.vercel.app">[Portfolio]</li>
 </ul>
 
 <h3 align="left">Connect with me:</h3>
